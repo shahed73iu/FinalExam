@@ -1,0 +1,18 @@
+FROM mcr.microsoft.com/dotnet/core/sdk:2.2 AS build
+WORKDIR /src
+
+COPY ["MVCProjectFinal.Core/*.csproj", "MVCProjectFinal.Core/"]
+COPY ["MVCProjectFinal.Web/*.csproj", "mvcprojectfinal.Web/"]
+COPY ["MVCProjectFinal.Data/*.csproj", "MVCProjectFinal.Data/"]
+RUN dotnet restore "MVCProjectFinal.Web/MVCProjectFinal.Web.csproj"
+COPY . .
+WORKDIR "/src/MVCProjectFinal.Web"
+RUN dotnet build "MVCProjectFinal.Web.csproj" -c Release -o /app
+
+FROM build AS publish
+RUN dotnet publish "MVCProjectFinal.Web.csproj" -c Release -o /app
+
+FROM build AS final
+WORKDIR /app
+COPY --from=publish /app .
+ENTRYPOINT ["dotnet", "MVCProjectFinal.Web.dll"]

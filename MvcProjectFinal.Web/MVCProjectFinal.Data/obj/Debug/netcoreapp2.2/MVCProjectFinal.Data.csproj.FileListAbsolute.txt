@@ -1,0 +1,7 @@
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Data\bin\Debug\netcoreapp2.2\MVCProjectFinal.Data.deps.json
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Data\bin\Debug\netcoreapp2.2\MVCProjectFinal.Data.dll
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Data\bin\Debug\netcoreapp2.2\MVCProjectFinal.Data.pdb
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Data\obj\Debug\netcoreapp2.2\MVCProjectFinal.Data.AssemblyInfoInputs.cache
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Data\obj\Debug\netcoreapp2.2\MVCProjectFinal.Data.AssemblyInfo.cs
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Data\obj\Debug\netcoreapp2.2\MVCProjectFinal.Data.dll
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Data\obj\Debug\netcoreapp2.2\MVCProjectFinal.Data.pdb

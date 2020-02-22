@@ -1,0 +1,4 @@
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MvcProjectFinal.Web\obj\Debug\netcoreapp3.0\MvcProjectFinal.Web.csprojAssemblyReference.cache
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MvcProjectFinal.Web\obj\Debug\netcoreapp3.0\MvcProjectFinal.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MvcProjectFinal.Web\obj\Debug\netcoreapp3.0\MvcProjectFinal.Web.AssemblyInfoInputs.cache
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MvcProjectFinal.Web\obj\Debug\netcoreapp3.0\MvcProjectFinal.Web.AssemblyInfo.cs

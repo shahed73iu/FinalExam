@@ -1,0 +1,13 @@
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Core\bin\Debug\netcoreapp2.2\MVCProjectFinal.Core.deps.json
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Core\bin\Debug\netcoreapp2.2\MVCProjectFinal.Core.runtimeconfig.json
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Core\bin\Debug\netcoreapp2.2\MVCProjectFinal.Core.runtimeconfig.dev.json
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Core\bin\Debug\netcoreapp2.2\MVCProjectFinal.Core.dll
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Core\bin\Debug\netcoreapp2.2\MVCProjectFinal.Core.pdb
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Core\bin\Debug\netcoreapp2.2\MVCProjectFinal.Data.dll
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Core\bin\Debug\netcoreapp2.2\MVCProjectFinal.Data.pdb
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Core\obj\Debug\netcoreapp2.2\MVCProjectFinal.Core.csprojAssemblyReference.cache
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Core\obj\Debug\netcoreapp2.2\MVCProjectFinal.Core.AssemblyInfoInputs.cache
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Core\obj\Debug\netcoreapp2.2\MVCProjectFinal.Core.AssemblyInfo.cs
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Core\obj\Debug\netcoreapp2.2\MVCProjectFinal.Core.csproj.CopyComplete
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Core\obj\Debug\netcoreapp2.2\MVCProjectFinal.Core.dll
+E:\devskill classes\FinalExamProjects\MvcProject\MvcProjectFinal.Web\MVCProjectFinal.Core\obj\Debug\netcoreapp2.2\MVCProjectFinal.Core.pdb
