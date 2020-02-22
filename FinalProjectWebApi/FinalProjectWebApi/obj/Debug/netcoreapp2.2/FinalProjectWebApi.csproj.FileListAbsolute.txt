@@ -1,0 +1,16 @@
+E:\devskill classes\FinalExamProjects\APIProject\FinalProjectWebApi\FinalProjectWebApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\devskill classes\FinalExamProjects\APIProject\FinalProjectWebApi\FinalProjectWebApi\bin\Debug\netcoreapp2.2\appsettings.json
+E:\devskill classes\FinalExamProjects\APIProject\FinalProjectWebApi\FinalProjectWebApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\devskill classes\FinalExamProjects\APIProject\FinalProjectWebApi\FinalProjectWebApi\bin\Debug\netcoreapp2.2\FinalProjectWebApi.deps.json
+E:\devskill classes\FinalExamProjects\APIProject\FinalProjectWebApi\FinalProjectWebApi\bin\Debug\netcoreapp2.2\FinalProjectWebApi.runtimeconfig.json
+E:\devskill classes\FinalExamProjects\APIProject\FinalProjectWebApi\FinalProjectWebApi\bin\Debug\netcoreapp2.2\FinalProjectWebApi.runtimeconfig.dev.json
+E:\devskill classes\FinalExamProjects\APIProject\FinalProjectWebApi\FinalProjectWebApi\bin\Debug\netcoreapp2.2\FinalProjectWebApi.dll
+E:\devskill classes\FinalExamProjects\APIProject\FinalProjectWebApi\FinalProjectWebApi\obj\Debug\netcoreapp2.2\FinalProjectWebApi.csprojAssemblyReference.cache
+E:\devskill classes\FinalExamProjects\APIProject\FinalProjectWebApi\FinalProjectWebApi\obj\Debug\netcoreapp2.2\FinalProjectWebApi.RazorAssemblyInfo.cache
+E:\devskill classes\FinalExamProjects\APIProject\FinalProjectWebApi\FinalProjectWebApi\obj\Debug\netcoreapp2.2\FinalProjectWebApi.RazorAssemblyInfo.cs
+E:\devskill classes\FinalExamProjects\APIProject\FinalProjectWebApi\FinalProjectWebApi\obj\Debug\netcoreapp2.2\FinalProjectWebApi.AssemblyInfoInputs.cache
+E:\devskill classes\FinalExamProjects\APIProject\FinalProjectWebApi\FinalProjectWebApi\obj\Debug\netcoreapp2.2\FinalProjectWebApi.AssemblyInfo.cs
+E:\devskill classes\FinalExamProjects\APIProject\FinalProjectWebApi\FinalProjectWebApi\obj\Debug\netcoreapp2.2\FinalProjectWebApi.RazorTargetAssemblyInfo.cache
+E:\devskill classes\FinalExamProjects\APIProject\FinalProjectWebApi\FinalProjectWebApi\bin\Debug\netcoreapp2.2\FinalProjectWebApi.pdb
+E:\devskill classes\FinalExamProjects\APIProject\FinalProjectWebApi\FinalProjectWebApi\obj\Debug\netcoreapp2.2\FinalProjectWebApi.dll
+E:\devskill classes\FinalExamProjects\APIProject\FinalProjectWebApi\FinalProjectWebApi\obj\Debug\netcoreapp2.2\FinalProjectWebApi.pdb
